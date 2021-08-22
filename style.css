@@ -1,0 +1,13 @@
+html {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+app {
+    min-width: 500px;
+}
